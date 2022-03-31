@@ -1,0 +1,55 @@
+*{
+    text-align:center;
+}
+body{
+    background-image: radial-gradient(circle, #ffb8b7, #ffa9ad, #ff99a4, #ff889e, #ff7799, #fa6898, #f55898, #ee4799, #df379d, #cd28a2, #b91ca8, #a115ad);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.corpo-calc{
+    background-color: rgba(255, 255, 255, 0.795);
+    border-radius: 10px;
+    width: 20%;
+    height: 390px;
+    margin: 0 auto;
+}
+h1{
+    color: #fff;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+table{
+    padding-top: 0.667em;
+    margin: 0 auto;
+}
+.botao input{
+    width: 50px;
+    margin: 3px;
+    padding: 14px;
+    background-color: #adadadd8;
+    border: none;
+    border-radius: 50%;
+    font-size: large;
+    color: #fff;
+}
+.botao input:hover{
+    background-color: #008bcbb9;
+}
+.funcoes{
+    background-color: #008bcb !important;
+}
+.tela{
+    width: 85%; 
+    padding: 1em;
+    margin-bottom: 10px;
+    text-align:right; 
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    background-color: #adadadd8;
+    font-size: larger;
+}
+.btn-zero{
+    width: 111px !important;
+    border-radius: 35px !important;
+    text-align: left !important;
+}
